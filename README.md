@@ -10,7 +10,6 @@ In model training, model is based on the dataset we have used and also how we ma
   - LSTM - Extends the memory of RNN. Learns long-term dependencies.
 
 ### Dataset:
-ISOT: https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/index.php<br>
 FA-KES: https://www.kaggle.com/mohamadalhasan/a-fake-news-dataset-around-the-syrian-war
 
 ### Noteook contain:
